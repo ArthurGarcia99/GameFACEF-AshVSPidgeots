@@ -1,6 +1,6 @@
-🎮 AshVsPidgeots
+🎮 Ash vs Pidgeots
 
-Um jogo de plataforma 2D onde você controla o Ash de pokemon na qual tem objetivo de caçar o maximo de pidgeots e atingir maior pontuação possível.
+Um jogo 2D onde você controla Ash em sua jornada para capturar o maior número possível de Pidgeots e alcançar a pontuação mais alta!
 
 
 📦 Sobre o Projeto
@@ -9,15 +9,19 @@ Estilo: Jogo de pontuação.
 
 Engine: Construct 3.
 
-Objetivo: Capturar o maximo de pidgeots e ter o maior score possível.
+Objetivo: Capturar o máximo de Pidgeots e bater recordes de pontuação!
+
 
 🎮 Como Jogar
 
-Movimentação: Setas.
+Mover Ash: Setas.
 
-Ataque: Botão esquerdo (Mouse)
+Lançar Pokébola: Botão esquerdo (Mouse).
 
-Reiniciar Game ao morrer: Barra de espaço
+Reiniciar Game: Barra de espaço.
+
+Cada Pidgeot capturado aumenta sua pontuação. Mas cuidado: eles voam rápido e podem escapar!
+
 
 🚀 Como Rodar o Projeto
 
@@ -26,6 +30,7 @@ Pré-requisitos
 Construct 3 instalado.
 
 Git e/ou outras dependências (caso necessário)
+
 
 📸 Screenshots
 
@@ -38,7 +43,7 @@ Arquivos cp3 e Sprites:
 ![PIDGEOT](https://github.com/user-attachments/assets/f9077790-9838-467a-a7d3-905edc9e9e56)
 
 
-![PIDGEOT](https://github.com/user-attachments/assets/bdeefa44-f5d6-4e1c-ac04-32de6272c55a)
+![POKEBOLA](https://github.com/user-attachments/assets/e85e2a4f-791d-411d-bc1c-1de4f20308c9)
 
 
 ![FLASH](https://github.com/user-attachments/assets/55d62a5f-8e21-47b9-8ff1-63e364b7a253)
@@ -53,42 +58,21 @@ Arquivos cp3 e Sprites:
 
 
 🛠️ Tecnologias Utilizadas
-🧱 Engine: [Nome da engine]
+🧱 Engine: Construct 3
 
-🎨 Arte: [Feita à mão / Aseprite / OpenGameArt / etc.]
+🎨 Arte: Sprites Prontos
 
-🔊 Áudio: [Bfxr / Freesound / etc.]
+🔊 Áudio: Nenhum
 
-🧠 Scripts: [C# / GDScript / Lua / etc.]
 
-📅 Roadmap
- Protótipo inicial
-
- Sistema de inimigos
-
- Fase 2
-
- Tela de Game Over
-
- Salvamento de progresso
-
-👨‍💻 Contribuindo
-Se quiser contribuir:
-
-bash
-Copiar
-Editar
-fork este repositório
-crie uma branch: git checkout -b minha-feature
-faça suas alterações e commit: git commit -m 'Minha feature'
-push para a branch: git push origin minha-feature
-abra um Pull Request
 📄 Licença
-Este projeto está sob a licença MIT.
+Este projeto é um fan game sem fins lucrativos.
+Todos os direitos dos personagens são da Nintendo / Game Freak.
+
 
 🙌 Agradecimentos
-Agradecimentos a tutoriais, assets, comunidades, amigos que ajudaram, etc.
+A todos os criadores do universo Pokémon
 
-Ex: "Baseado no curso X", "Usa sprites de Y", etc.
+Comunidade open-source de jogos 2D
 
-Se quiser, posso adaptar o template para um jogo específico ou preenchê-lo com dados reais do seu projeto. Quer?
+Sites de assets gratuitos que possibilitaram os sprites prontos.

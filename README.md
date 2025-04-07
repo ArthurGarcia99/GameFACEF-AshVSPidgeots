@@ -67,7 +67,7 @@ Aplicação/Layout/Folha Eventos e Banco de Dados:
 
 🛠️ Tecnologias Utilizadas
 
-🧱 Engine: Construct 3
+🧱 Engine: Construct 3 e FireBase.
 
 🎨 Arte: Sprites Prontos
 

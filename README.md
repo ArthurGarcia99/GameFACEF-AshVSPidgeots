@@ -35,6 +35,22 @@ Arquivos cp3 e Sprites:
 ![ASH](https://github.com/user-attachments/assets/9013a6bd-3f53-49f3-b2be-bdbe2978d2fc)
 
 
+![PIDGEOT](https://github.com/user-attachments/assets/f9077790-9838-467a-a7d3-905edc9e9e56)
+
+
+![PIDGEOT](https://github.com/user-attachments/assets/bdeefa44-f5d6-4e1c-ac04-32de6272c55a)
+
+
+![FLASH](https://github.com/user-attachments/assets/55d62a5f-8e21-47b9-8ff1-63e364b7a253)
+
+
+![FUNDO](https://github.com/user-attachments/assets/f6777982-fa6c-4d39-bf1a-c5b25783128d)
+
+
+
+
+
+
 
 🛠️ Tecnologias Utilizadas
 🧱 Engine: [Nome da engine]

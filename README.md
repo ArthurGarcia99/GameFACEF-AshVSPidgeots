@@ -35,22 +35,22 @@ Git e/ou outras dependências (caso necessário)
 📸 Screenshots
 
 
-Arquivos cp3 e Sprites:
+Sprites:
 
 
-![ASH](https://github.com/user-attachments/assets/9013a6bd-3f53-49f3-b2be-bdbe2978d2fc)
+![ash](https://github.com/user-attachments/assets/f9d08174-7415-40cb-80e7-d9ca400cd9a3)
 
 
-![PIDGEOT](https://github.com/user-attachments/assets/f9077790-9838-467a-a7d3-905edc9e9e56)
+![pidgeot](https://github.com/user-attachments/assets/591003aa-ea09-4c2f-9709-1eed0a08e5b4)
 
 
-![POKEBOLA](https://github.com/user-attachments/assets/e85e2a4f-791d-411d-bc1c-1de4f20308c9)
+![pokebola](https://github.com/user-attachments/assets/12985002-0e4e-4115-a229-409af8f96c75)
 
 
-![FLASH](https://github.com/user-attachments/assets/55d62a5f-8e21-47b9-8ff1-63e364b7a253)
+![flash](https://github.com/user-attachments/assets/784b0c6d-88d4-4e31-88e5-8300fef96949)
 
 
-![FUNDO](https://github.com/user-attachments/assets/f6777982-fa6c-4d39-bf1a-c5b25783128d)
+![fundo](https://github.com/user-attachments/assets/506783d6-465d-4315-8dd3-a2e06c51a118)
 
 
 Aplicação/Layout/Folha Eventos e Banco de Dados:

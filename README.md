@@ -58,6 +58,7 @@ Arquivos cp3 e Sprites:
 
 
 🛠️ Tecnologias Utilizadas
+
 🧱 Engine: Construct 3
 
 🎨 Arte: Sprites Prontos
@@ -66,11 +67,13 @@ Arquivos cp3 e Sprites:
 
 
 📄 Licença
+
 Este projeto é um fan game sem fins lucrativos.
 Todos os direitos dos personagens são da Nintendo / Game Freak.
 
 
 🙌 Agradecimentos
+
 A todos os criadores do universo Pokémon
 
 Comunidade open-source de jogos 2D

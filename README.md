@@ -1,13 +1,13 @@
 🎮 Ash vs Pidgeots
 
-Um jogo 2D onde você controla Ash em sua jornada para capturar o maior número possível de Pidgeots e alcançar a pontuação mais alta!
+Um jogo 2D com Banco de Dados NoSQL onde você controla Ash em sua jornada para capturar o maior número possível de Pidgeots e alcançar a pontuação mais alta!
 
 
 📦 Sobre o Projeto
 
 Estilo: Jogo de pontuação.
 
-Engine: Construct 3.
+Engines: Construct 3 e Firebase.
 
 Objetivo: Capturar o máximo de Pidgeots e bater recordes de pontuação!
 
@@ -34,6 +34,7 @@ Git e/ou outras dependências (caso necessário)
 
 📸 Screenshots
 
+
 Arquivos cp3 e Sprites:
 
 
@@ -52,9 +53,16 @@ Arquivos cp3 e Sprites:
 ![FUNDO](https://github.com/user-attachments/assets/f6777982-fa6c-4d39-bf1a-c5b25783128d)
 
 
+Aplicação/Layout/Folha Eventos e Banco de Dados:
 
 
+![GAME](https://github.com/user-attachments/assets/deced305-58a9-4d1f-a58f-5ce424fa0be9)
 
+
+![FOLHA EVENTOS](https://github.com/user-attachments/assets/09e935be-f1f5-4b96-ab31-8d65ccf0f394)
+
+
+![database](https://github.com/user-attachments/assets/7ee2a11f-bde0-4d50-8de3-93d13c9b1dfb)
 
 
 🛠️ Tecnologias Utilizadas

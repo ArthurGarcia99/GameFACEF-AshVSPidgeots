@@ -4,7 +4,6 @@ Um jogo de plataforma 2D onde você controla o Ash de pokemon na qual tem objeti
 
 
 📦 Sobre o Projeto
-Explique o objetivo do jogo, sua mecânica principal e o que o torna único.
 
 Estilo: Jogo de pontuação.
 
@@ -13,6 +12,7 @@ Engine: Construct 3.
 Objetivo: Capturar o maximo de pidgeots e ter o maior score possível.
 
 🎮 Como Jogar
+
 Movimentação: Setas.
 
 Ataque: Botão esquerdo (Mouse)
@@ -20,7 +20,9 @@ Ataque: Botão esquerdo (Mouse)
 Reiniciar Game ao morrer: Barra de espaço
 
 🚀 Como Rodar o Projeto
+
 Pré-requisitos
+
 Construct 3 instalado.
 
 Git e/ou outras dependências (caso necessário)
@@ -29,7 +31,7 @@ Git e/ou outras dependências (caso necessário)
 
 Arquivos cp3 e Sprites:
 
-ASH
+
 ![ASH](https://github.com/user-attachments/assets/9013a6bd-3f53-49f3-b2be-bdbe2978d2fc)
 
 

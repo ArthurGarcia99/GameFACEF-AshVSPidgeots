@@ -87,3 +87,7 @@ A todos os criadores do universo Pokémon
 Comunidade open-source de jogos 2D
 
 Sites de assets gratuitos que possibilitaram os sprites prontos.
+
+🎮 Link Game:
+
+https://arthurgarcia99.itch.io/ash-vs-pidgeots
